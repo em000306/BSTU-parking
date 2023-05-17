@@ -1,0 +1,9 @@
+.bg-1{
+    background: url('/images/first-page-bg-2.png');
+    height: 100vh;
+}
+
+.bg-2{
+    background: url('/images/first-page-bg-1.png');
+    height: 100vh;
+}
